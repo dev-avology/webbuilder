@@ -1,0 +1,7 @@
+.env
+.env.example
+.user.ini
+storage/
+storage
+script/vendor
+.DS_Store
